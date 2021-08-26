@@ -1,21 +1,4 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
     "cars": [
         {
             "id": 1,
@@ -238,72 +221,7 @@
             "EngineSize": "3000cc",
             "ExteriorColor": "Red ",
             "InteriorColor": "White"
-        },
-        {
-            "id": 11,
-            "PurchasePrice": 3300000,
-            "Year": 2019,
-            "CarType": "Audi",
-            "images": [
-                "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019__480.jpg",
-                "https://cdn.pixabay.com/photo/2016/12/07/15/32/audi-1889695__340.jpg",
-                "https://cdn.pixabay.com/photo/2016/12/07/21/50/car-1890494__340.jpg",
-                "https://cdn.pixabay.com/photo/2016/12/03/11/47/car-1879630__340.jpg"
-            ],
-            "carID": 202168,
-            "FuelType": "Petrol & Diesel",
-            "condition": "Foreign Used",
-            "Transmission": "Automatic",
-            "Drive": "2WD-4DW ",
-            "Size": "7 seater",
-            "Mileage": "50,000km",
-            "EngineSize": "3000cc",
-            "ExteriorColor": "White ",
-            "InteriorColor": "Grey"
-        },
-        {
-            "id": 12,
-            "PurchasePrice": 5000000,
-            "Year": 2019,
-            "CarType": "Mc laren",
-            "images": [
-                "https://cdn.pixabay.com/photo/2017/05/16/11/20/mclaren-2317538__340.jpg",
-                "https://cdn.pixabay.com/photo/2017/06/10/09/28/mclaren-2389414__340.jpg",
-                "https://cdn.pixabay.com/photo/2021/08/08/21/37/car-6531996__340.jpg",
-                "https://cdn.pixabay.com/photo/2021/01/27/10/28/car-5954530__340.jpg"
-            ],
-            "carID": 202168,
-            "FuelType": "Petrol & Diesel",
-            "condition": "Foreign Used",
-            "Transmission": "Automatic",
-            "Drive": "2WD-4DW ",
-            "Size": "7 seater",
-            "Mileage": "50,000km",
-            "EngineSize": "3000cc",
-            "ExteriorColor": "Red ",
-            "InteriorColor": "White"
-        },
-        {
-            "id": 13,
-            "PurchasePrice": 4400000,
-            "Year": 2019,
-            "CarType": "Bugatti",
-            "images": [
-                "https://cdn.pixabay.com/photo/2016/09/19/15/04/bugatti-1680459__340.jpg",
-                "https://cdn.pixabay.com/photo/2019/07/08/13/21/bugatti-4324768__340.jpg",
-                "https://cdn.pixabay.com/photo/2019/01/08/11/48/car-3921004__340.jpg",
-                "https://cdn.pixabay.com/photo/2019/03/22/13/07/auto-4073197__340.jpg"
-            ],
-            "carID": 202168,
-            "FuelType": "Petrol & Diesel",
-            "condition": "Foreign Used",
-            "Transmission": "Automatic",
-            "Drive": "2WD-4DW ",
-            "Size": "7 seater",
-            "Mileage": "50,000km",
-            "EngineSize": "3500cc",
-            "ExteriorColor": "Grey",
-            "InteriorColor": "White"
         }
+       
     ]
 }
