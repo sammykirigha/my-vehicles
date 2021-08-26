@@ -20,8 +20,14 @@
         {
             "id": 1,
             "PurchasePrice": 1200000,
-            "CarType": "Toyota Fielder",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/01/2013-Toyota-Fielder-10.jpg",
+            "CarType": "Mercedes Benz",
+            "Year": 2019,
+            "images": [
+                "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/07/09/21/47/car-1506922__340.jpg",
+                "https://cdn.pixabay.com/photo/2015/05/01/13/36/sports-cars-748474__340.jpg",
+                "https://cdn.pixabay.com/photo/2018/05/20/23/36/mercedes-3417100__340.jpg"
+            ],
             "carID": 202046,
             "BodyType": "Station Wagons",
             "FuelType": "Petrol",
@@ -30,14 +36,20 @@
             "Drive": "2WD",
             "Mileage": "50,000km",
             "EngineSize": "1500cc",
-            "ExteriorColor": "White",
+            "ExteriorColor": "White/blacl",
             "InteriorColor": "Jet Black"
         },
         {
             "id": 2,
             "PurchasePrice": 900000,
-            "CarType": "Mazde Demio",
-            "image": "https://topcar.co.ke/wp-content/uploads/2019/07/2013-Mazda-Demio-2.jpg",
+            "Year": 2018,
+            "CarType": "Jeep",
+            "images": [
+                "https://cdn.pixabay.com/photo/2018/03/04/00/09/vehicle-3196981__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/06/29/09/25/car-2453605__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/05/04/23/58/jeep-gladiator-rubicon-4179429__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/06/22/18/52/wrangler-2432059__340.jpg"
+            ],
             "carID": 201198,
             "BodyType": "Station Wagons",
             "FuelType": "Petrol",
@@ -46,14 +58,21 @@
             "Drive": "2WD - 4DW ",
             "Mileage": "50,000km",
             "EngineSize": "1300cc",
-            "ExteriorColor": "Black",
+            "ExteriorColor": "Black/yellow",
             "InteriorColor": "Jet Black"
         },
         {
             "id": 3,
             "PurchasePrice": 850000,
-            "CarType": "Toyota Axio",
-            "image": "https://topcar.co.ke/wp-content/uploads/2018/10/2012-Toyota-Axio-.jpg",
+            "Year": 2019,
+            "CarType": "BMW",
+            "images": [
+                "https://cdn.pixabay.com/photo/2018/02/21/03/15/bmw-m4-3169357__340.jpg",
+                "https://cdn.pixabay.com/photo/2015/09/02/12/25/bmw-918408__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/02/22/20/22/bmw-1216469__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/04/21/22/48/bmw-1344713__340.jpg"
+            ],
+
             "carID": 202298,
             "BodyType": "Station Wagons",
             "FuelType": "Petrol",
@@ -68,9 +87,15 @@
         },
         {
             "id": 4,
-            "PurchasePrice": 550000,
-            "CarType": "Toyota Prado",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/01/2013-Toyota-Prado-4-min.jpg",
+            "PurchasePrice": 5500000,
+            "Year": 2019,
+            "CarType": "Range Rover",
+            "images": [
+                "https://cdn.pixabay.com/photo/2017/01/28/16/03/range-rover-2015653__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/01/28/16/04/range-rover-2015663__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/04/13/00/17/range-rover-2226227__340.jpg",
+                "https://cdn.pixabay.com/photo/2021/01/01/16/36/range-rover-5879189__340.jpg"
+            ],
             "carID": 202668,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
@@ -85,8 +110,14 @@
         {
             "id": 5,
             "PurchasePrice": 1800000,
-            "CarType": "Subaru Forest",
-            "image": "https://topcar.co.ke/wp-content/uploads/2019/09/2013-Subaru-Forester-Nairobi.jpg",
+            "Year": 2019,
+            "CarType": "Subaru",
+            "images": [
+                "https://cdn.pixabay.com/photo/2021/08/20/05/36/car-6559517__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/05/03/14/47/subaru-2281268__340.jpg",
+                "https://cdn.pixabay.com/photo/2020/05/14/19/36/subaru-5171115__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/10/04/05/17/subaru-1713596__340.jpg"
+            ],
             "carID": 202668,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
@@ -101,8 +132,14 @@
         {
             "id": 6,
             "PurchasePrice": 500000,
-            "CarType": "Honda Fit",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/03/2013-Honda-Fit-3.jpg",
+            "Year": 2019,
+            "CarType": "Porsche",
+            "images": [
+                "https://cdn.pixabay.com/photo/2020/01/26/18/52/porsche-4795517__340.jpg",
+                "https://cdn.pixabay.com/photo/2020/06/22/19/30/automobile-5330343__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629__340.png",
+                "https://cdn.pixabay.com/photo/2016/05/23/18/18/porsche-targa-1410900__340.jpg"
+            ],
             "carID": 202668,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
@@ -117,15 +154,21 @@
         {
             "id": 7,
             "PurchasePrice": 1900000,
-            "CarType": "Nissan X-Trail",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/03/2013-Nissan-X-Trail1.jpg",
+            "Year": 2019,
+            "CarType": "Lamborgni",
+            "images": [
+                "https://cdn.pixabay.com/photo/2012/04/12/23/48/car-30990__340.png",
+                "https://cdn.pixabay.com/photo/2017/03/20/04/57/truck-2158284__340.png",
+                "https://cdn.pixabay.com/photo/2018/05/10/18/39/lamborghini-3388285__340.png",
+                "https://cdn.pixabay.com/photo/2016/11/12/12/22/lamborghini-1818728__340.jpg"
+            ],
             "carID": 202668,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
             "Transmission": "Automatic",
             "Drive": "2WD - 4DW ",
             "Size": "5 seater",
-            "Mileage": "50,000km",
+            "Mileage ": "50,000km",
             "EngineSize": "2000cc",
             "ExteriorColor": "White and Black ",
             "InteriorColor": "White"
@@ -133,8 +176,14 @@
         {
             "id": 8,
             "PurchasePrice": 1900000,
-            "CarType": "Subaru Exiga",
-            "image": "https://topcar.co.ke/wp-content/uploads/2018/10/Subaru-Exiga-for-sale-in-Kenya-1.jpg",
+            "Year": 2019,
+            "CarType": "Roll Royce",
+            "images": [
+                "https://cdn.pixabay.com/photo/2018/01/05/10/37/traffic-3062608__340.jpg",
+                "https://cdn.pixabay.com/photo/2015/11/06/16/33/rolls-1029584__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/03/21/15/rolls-royce-2712120__340.png",
+                "https://cdn.pixabay.com/photo/2019/12/06/15/17/rolls-royce-4677555__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
@@ -143,14 +192,20 @@
             "Size": "5 seater",
             "Mileage": "50,000km",
             "EngineSize": "2500cc",
-            "ExteriorColor": "Black ",
+            "ExteriorColor": "Black/gray ",
             "InteriorColor": "White"
         },
         {
             "id": 9,
             "PurchasePrice": 1400000,
-            "CarType": "Toyota Wish",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/04/2013-Toyota-Wish-9.jpg",
+            "Year": 2019,
+            "CarType": "Ford Mustang",
+            "images": [
+                "https://cdn.pixabay.com/photo/2021/02/13/05/32/model-car-6010382__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/09/20/00/28/ford-mustang-2767124__340.png",
+                "https://cdn.pixabay.com/photo/2012/11/03/22/41/ford-64041__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/09/29/18/48/mustang-1703538__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol",
             "condition": "Foreign Used",
@@ -165,8 +220,14 @@
         {
             "id": 10,
             "PurchasePrice": 3000000,
-            "CarType": "Mercedes E-Class",
-            "image": "https://topcar.co.ke/wp-content/uploads/2020/01/2013-Mercedes-Benz-E-Class-2.jpg",
+            "Year": 2019,
+            "CarType": "Tesla",
+            "images": [
+                "https://cdn.pixabay.com/photo/2020/01/20/20/39/car-4781370__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/07/13/22/03/its-4335837__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/07/02/09/32/tesla-4311968__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/12/30/21/17/tesla-4730660__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol & Diesel",
             "condition": "Foreign Used",
@@ -181,8 +242,14 @@
         {
             "id": 11,
             "PurchasePrice": 3300000,
-            "CarType": "Lexus RX",
-            "image": "https://topcar.co.ke/wp-content/uploads/2019/12/2013-Lexus-RX270-13.jpg",
+            "Year": 2019,
+            "CarType": "Audi",
+            "images": [
+                "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019__480.jpg",
+                "https://cdn.pixabay.com/photo/2016/12/07/15/32/audi-1889695__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/12/07/21/50/car-1890494__340.jpg",
+                "https://cdn.pixabay.com/photo/2016/12/03/11/47/car-1879630__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol & Diesel",
             "condition": "Foreign Used",
@@ -197,8 +264,14 @@
         {
             "id": 12,
             "PurchasePrice": 5000000,
-            "CarType": "GMC - Yuko",
-            "image": " https: //cdn.motor1.com/images/mgl/Z3w9o/s3/2021-ford-bronco.webp",
+            "Year": 2019,
+            "CarType": "Mc laren",
+            "images": [
+                "https://cdn.pixabay.com/photo/2017/05/16/11/20/mclaren-2317538__340.jpg",
+                "https://cdn.pixabay.com/photo/2017/06/10/09/28/mclaren-2389414__340.jpg",
+                "https://cdn.pixabay.com/photo/2021/08/08/21/37/car-6531996__340.jpg",
+                "https://cdn.pixabay.com/photo/2021/01/27/10/28/car-5954530__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol & Diesel",
             "condition": "Foreign Used",
@@ -213,8 +286,14 @@
         {
             "id": 13,
             "PurchasePrice": 4400000,
-            "CarType": "Yukon",
-            "image": " https://www.chicagoautoshow.com/assets/1/23/VehicleRegularDimensionId/2021-GMC-Yukon-1.jpg",
+            "Year": 2019,
+            "CarType": "Bugatti",
+            "images": [
+                "https://cdn.pixabay.com/photo/2016/09/19/15/04/bugatti-1680459__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/07/08/13/21/bugatti-4324768__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/01/08/11/48/car-3921004__340.jpg",
+                "https://cdn.pixabay.com/photo/2019/03/22/13/07/auto-4073197__340.jpg"
+            ],
             "carID": 202168,
             "FuelType": "Petrol & Diesel",
             "condition": "Foreign Used",
